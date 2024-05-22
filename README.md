@@ -5,21 +5,31 @@
 - 📩 alexahupla@gmail.com
 
 
-## Lenguajes de Programación
+# Hola, soy Alexa Hurtado 👋
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+Soy una desarrolladora apasionada con experiencia en varios lenguajes de programación y herramientas.
 
 ## Lenguajes y Herramientas
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" height="40" width="40"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="JavaScript" height="40" width="40"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="Java" height="40" width="40"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="HTML5" height="40" width="40"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="CSS3" height="40" width="40"/> 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Oracle HCM](https://img.shields.io/badge/Oracle_HCM-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Visio](https://img.shields.io/badge/Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
+![Mega](https://img.shields.io/badge/Mega-D9272E?style=for-the-badge&logo=mega&logoColor=white)
+
+## Proyectos Destacados
+
+- [Proyecto 1](https://github.com/alexahurtadop/proyecto1): Descripción breve del proyecto.
+- [Proyecto 2](https://github.com/alexahurtadop/proyecto2): Descripción breve del proyecto.
+
+## Conectemos
+
+- [LinkedIn](https://www.linkedin.com/in/alexahurtadop)
+- [Twitter](https://twitter.com/alexahurtadop)
+
 
 <!---
 alexahurtadop/alexahurtadop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
