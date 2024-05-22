@@ -1,13 +1,9 @@
-- 👋 Hi, I’m Alexandra Hurtado Plata 
+# Hi, I’m Alexandra Hurtado Plata  👋
+
 - 👀 I am seeking challenging opportunities in the field of data analysis
 - 🌱 I’m currently learning Python and SQL
 - 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrahtd/)](https://www.linkedin.com/in/alexandrahtd/)
 - 📩 alexahupla@gmail.com
-
-
-# Hola, soy Alexa Hurtado 👋
-
-Soy una desarrolladora apasionada con experiencia en varios lenguajes de programación y herramientas.
 
 ## Lenguajes y Herramientas
 
@@ -24,11 +20,6 @@ Soy una desarrolladora apasionada con experiencia en varios lenguajes de program
 
 - [Proyecto 1](https://github.com/alexahurtadop/proyecto1): Descripción breve del proyecto.
 - [Proyecto 2](https://github.com/alexahurtadop/proyecto2): Descripción breve del proyecto.
-
-## Conectemos
-
-- [LinkedIn](https://www.linkedin.com/in/alexahurtadop)
-- [Twitter](https://twitter.com/alexahurtadop)
 
 
 <!---
